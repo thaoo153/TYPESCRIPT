@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Máy tính HP",
+      "price": "11000000",
+      "image": "https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/HP/laptop-hp-2_1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bộ máy Dell",
+      "price": "9000000",
+      "image": "https://maytinhkimlong.com/uploads/product/may-bo/6f37dae03239fd67a428.jpg"
+    },
+    {
+      "id": 4,
+      "name": "MacBook",
+      "price": "22000000",
+      "image": "https://vov.vn/sites/default/files/styles/large/public/2023-01/29aefa5eff51240f7d40.jpg"
+    },
+    {
+      "id": 5,
+      "name": "1223",
+      "price": "120000",
+      "image": "https://cuahangdongho.vn/wp-content/uploads/2020/03/9769-g03-e1596777033549-529x600.png"
+    },
+    {
+      "name": "       ",
+      "price": "     ",
+      "image": "     ",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "name": "Điện thoại",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "password": "123456",
+      "roleId": 1
+    },
+    {
+      "id": 2,
+      "name": "user",
+      "password": "123456",
+      "roleId": 2
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "admin"
+    },
+    {
+      "id": 2,
+      "name": "user"
+    }
+  ]
+}
